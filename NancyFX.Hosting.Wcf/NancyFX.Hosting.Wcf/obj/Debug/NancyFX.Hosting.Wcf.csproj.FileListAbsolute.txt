@@ -1,0 +1,11 @@
+\\psf\home\documents\visual studio 2015\Projects\NancyFX.Hosting.Wcf\NancyFX.Hosting.Wcf\bin\Debug\NancyFX.Hosting.Wcf.exe.config
+\\psf\Home\Documents\Visual Studio 2015\Projects\NancyFX\NancyFX.Hosting.Wcf\NancyFX.Hosting.Wcf\bin\Debug\NancyFX.Hosting.Wcf.exe.config
+\\psf\Home\Documents\Visual Studio 2015\Projects\NancyFX\NancyFX.Hosting.Wcf\NancyFX.Hosting.Wcf\bin\Debug\NancyFX.Hosting.Wcf.exe
+\\psf\Home\Documents\Visual Studio 2015\Projects\NancyFX\NancyFX.Hosting.Wcf\NancyFX.Hosting.Wcf\bin\Debug\NancyFX.Hosting.Wcf.pdb
+\\psf\Home\Documents\Visual Studio 2015\Projects\NancyFX\NancyFX.Hosting.Wcf\NancyFX.Hosting.Wcf\bin\Debug\Nancy.dll
+\\psf\Home\Documents\Visual Studio 2015\Projects\NancyFX\NancyFX.Hosting.Wcf\NancyFX.Hosting.Wcf\bin\Debug\Nancy.Hosting.Wcf.dll
+\\psf\Home\Documents\Visual Studio 2015\Projects\NancyFX\NancyFX.Hosting.Wcf\NancyFX.Hosting.Wcf\bin\Debug\Nancy.xml
+\\psf\Home\Documents\Visual Studio 2015\Projects\NancyFX\NancyFX.Hosting.Wcf\NancyFX.Hosting.Wcf\bin\Debug\Nancy.Hosting.Wcf.xml
+\\psf\Home\Documents\Visual Studio 2015\Projects\NancyFX\NancyFX.Hosting.Wcf\NancyFX.Hosting.Wcf\obj\Debug\NancyFX.Hosting.Wcf.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Visual Studio 2015\Projects\NancyFX\NancyFX.Hosting.Wcf\NancyFX.Hosting.Wcf\obj\Debug\NancyFX.Hosting.Wcf.exe
+\\psf\Home\Documents\Visual Studio 2015\Projects\NancyFX\NancyFX.Hosting.Wcf\NancyFX.Hosting.Wcf\obj\Debug\NancyFX.Hosting.Wcf.pdb
