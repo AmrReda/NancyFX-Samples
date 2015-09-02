@@ -1,11 +1,10 @@
-﻿using System;
-using System.Threading.Tasks;
-using Microsoft.Owin;
+﻿using Microsoft.Owin;
+using NancyFX.Hosting.Owin.Service;
 using Owin;
 
-[assembly: OwinStartup(typeof(NancyFX.Hosting.Owin.Web.Startup))]
+[assembly: OwinStartup(typeof(Startup))]
 
-namespace NancyFX.Hosting.Owin.Web
+namespace NancyFX.Hosting.Owin.Service
 {
     public class Startup
     {
